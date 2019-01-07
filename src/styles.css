@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI,
+    HelveticaNeue-Light, Ubuntu, Droid Sans, sans-serif;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background: rgb(30, 30, 30);
+}
+
+/* Common: */
+
+.highlight {
+  color: rgb(160, 160, 255);
+}
+
+.money {
+  color: rgb(0, 192, 0);
+}
+
+.too-expensive {
+  color: red;
+}
