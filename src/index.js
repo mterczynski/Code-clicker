@@ -4,7 +4,6 @@ import { CodeColumn } from "./components/code-column/code-column";
 import { MainColumn } from "./components/main-column/main-column";
 import { StoreColumn } from "./components/store-column/store-column";
 import { EMPLOYEE_TYPES } from "./constants/employee-types";
-import { EMPLOYEE_DATA } from "./constants/employee-data";
 
 import "./styles.css";
 import "./styles/code-column.css";
