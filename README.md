@@ -2,6 +2,6 @@
 
 Clicker game inspired by Cookie Clicker
 
-### CodeSandbox https://codesandbox.io/s/1r91j86omj
+https://codesandbox.io/s/1r91j86omj
 
 <img src="https://github.com/mterczynski/code-clicker/blob/master/preview.png">
