@@ -1,4 +1,4 @@
-export const EMPLOYEE_TYPES = {
-  CURSOR: "CURSOR",
-  PROGRAMMER: "PROGRAMMER"
-};
+export const EMPLOYEE_TYPES = Object.freeze({
+	CURSOR: "CURSOR",
+	PROGRAMMER: "PROGRAMMER"
+});
